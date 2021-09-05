@@ -5,4 +5,5 @@
 - HTML & CSS 
 - JAVASCRIPT
 ## # ``features``
-
+- User friendly interface.
+- Used cool animmations to make it different from typical todo list.
